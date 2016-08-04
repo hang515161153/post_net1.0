@@ -1,0 +1,19 @@
+{
+  "name": "posnet",
+  "version": "1.0.0",
+  "main": "barcodeToPostcode.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "superagent": "^2.1.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "jasmine": "^2.4.1"
+  },
+  "description": ""
+}
